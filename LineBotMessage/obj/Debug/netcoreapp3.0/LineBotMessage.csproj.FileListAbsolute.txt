@@ -1,0 +1,7 @@
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.csproj.AssemblyReference.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.AssemblyInfoInputs.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.AssemblyInfo.cs
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.csproj.CoreCompileInputs.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cs
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\netcoreapp3.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cache

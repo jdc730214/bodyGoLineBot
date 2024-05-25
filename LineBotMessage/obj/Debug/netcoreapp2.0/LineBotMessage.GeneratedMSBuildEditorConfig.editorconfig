@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = LineBotMessage
+build_property.ProjectDir = D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

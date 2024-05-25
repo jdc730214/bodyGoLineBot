@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案由您的 Web 專案發佈/封裝處理序使用。您可以藉由編輯此 MSBuild 檔案，
+自訂此處理序的行為。若要深入了解，請前往 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+7fpI+LbZkGMmpj88kDHCgAAAAACAAAAAAAQZgAAAAEAACAAAACSNM+DxrhcvERtQnNzUGzVdoiqjnfQzxlQ4kB6Pjmq+gAAAAAOgAAAAAIAACAAAACzBl1vqs/qr54gfbneS7jZ3kadJaQQioEqnQriWyRjloAAAAASSgt8VBboftP1E2fNTsAlEFhTn+8oMfDzBW+IKEyDh3s1c17hj21ryc6vevS41+rvH/ORoKXBZbDaQjCVVNeQmZBFiIxhxXwap8+bM5Z4VXJo0Zfxi0Lge063HXgVJEnGeN7KjWK71ir5CLXCG1atHoWJNs9szcF5RKLgr7tBrUAAAACxy8tGkMTSNa3D95WPf+w0feK4PKD9UDbKWk+NDyOXzxA/2E8MMaIrs05YhA5/lezoZHeW9SCAlxAVexjK8Xzu</EncryptedPassword>
+    <History>False|2024-05-25T05:04:46.2148206Z;False|2024-05-25T12:49:23.6295043+08:00;False|2024-05-25T12:42:40.2762983+08:00;False|2024-05-25T12:33:54.6101018+08:00;False|2024-05-25T12:29:08.4007547+08:00;False|2024-05-25T12:24:51.2960671+08:00;False|2024-05-25T12:05:01.2309267+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

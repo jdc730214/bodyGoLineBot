@@ -1,0 +1,70 @@
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\appsettings.Development.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\appsettings.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.exe
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.deps.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.runtimeconfig.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.pdb
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.AssemblyReference.cache
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.AssemblyInfoInputs.cache
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.AssemblyInfo.cs
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.CoreCompileInputs.cache
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cs
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cache
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.build.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.development.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.LineBotMessage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.build.LineBotMessage.props
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LineBotMessage.props
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LineBotMessage.props
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.pack.json
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\scopedcss\bundle\LineBotMessage.styles.css
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.CopyComplete
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\refint\LineBotMessage.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.pdb
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.genruntimeconfig.cache
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\ref\LineBotMessage.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Lib.AspNetCore.ServerSentEvents.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\webhook\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\appsettings.Development.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\appsettings.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.exe
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.deps.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.runtimeconfig.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\LineBotMessage.pdb
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Lib.AspNetCore.ServerSentEvents.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.AssemblyReference.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.AssemblyInfoInputs.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.AssemblyInfo.cs
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.CoreCompileInputs.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cs
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.MvcApplicationPartsAssemblyInfo.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.build.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.development.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.LineBotMessage.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.build.LineBotMessage.props
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LineBotMessage.props
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LineBotMessage.props
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\scopedcss\bundle\LineBotMessage.styles.css
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.csproj.CopyComplete
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\refint\LineBotMessage.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.pdb
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\LineBotMessage.genruntimeconfig.cache
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Debug\net8.0\ref\LineBotMessage.dll

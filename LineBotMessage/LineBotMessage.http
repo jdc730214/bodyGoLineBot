@@ -1,0 +1,6 @@
+@LineBotMessage_HostAddress = http://localhost:5007
+
+GET {{LineBotMessage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

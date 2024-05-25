@@ -1,0 +1,14 @@
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\LineBotMessage.exe
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\LineBotMessage.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\LineBotMessage.deps.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\LineBotMessage.runtimeconfig.json
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\LineBotMessage.pdb
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Lib.AspNetCore.ServerSentEvents.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LINE Bot 實作\LINE Bot Server端應用\webAPI\LineBotMessage\LineBotMessage\obj\Release\net8.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll
